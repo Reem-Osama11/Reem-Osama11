@@ -30,33 +30,5 @@ Welcome to my profile! I'm a **Junior Frontend Developer** with a B.Sc. in Compu
 
 ---
 
-## 🚀 Featured Projects
-
-### 📱 [Social Media Web Platform](https://github.com/Reem-Osama11)
-- Built with **Next.js 16, React 19, TypeScript, Redux Toolkit, Tailwind CSS & MUI**[cite: 7].
-- Features post creation with image uploads, likes/comments, follow/unfollow system, "Load More" pagination, and central state managed via Redux Thunks (7 slices)[cite: 7].
-
-### 🛒 [E-Commerce Web Application](https://github.com/Reem-Osama11)
-- Built with **React.js, Vite, Tailwind CSS, Formik, Yup & TanStack Query**[cite: 7].
-- Includes protected routes, JWT Authentication, password recovery, product browsing, cart counter (Context API), and online payment integration[cite: 7].
-
-### 🎬 [Movie Discovery App](https://github.com/Reem-Osama11)
-- Built with **React.js, React Router, Tailwind CSS & TMDB API**[cite: 7].
-- Implemented custom data-fetching hook with `AbortController`, URL state management for shareable filters, and persistent localStorage Watchlist[cite: 7].
-
-### 🌤️ [Weather App](https://github.com/Reem-Osama11)
-- Built with **JavaScript, Bootstrap, WeatherAPI & Geolocation API**[cite: 6].
-- Features real-time city search, 3-day forecast, and auto-location detection[cite: 6].
-
----
-
-## 🎓 Education & Experience
-
-- **B.Sc. in Computer & Information Technology** | EELU (2026) - *Grade: Very Good with Honors (GPA: 3.46/4.00)*[cite: 6]
-- **Frontend Development Diploma (React.js)** | Route Academy (2024)[cite: 6]
-- **Front-End Development Internship** | Saiket Systems (Jul 2026 – Aug 2026)[cite: 6]
-
----
-
 📫 **Let's Connect!**  
 Feel free to reach out via Email: `reemosama111111@gmail.com`[cite: 6] or connect with me on [LinkedIn](https://linkedin.com/in/reemosama-dev)[cite: 6].
