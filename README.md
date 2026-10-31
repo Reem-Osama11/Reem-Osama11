@@ -31,4 +31,4 @@ Welcome to my profile! I'm a **Junior Frontend Developer** with a B.Sc. in Compu
 ---
 
 📫 **Let's Connect!**  
-Feel free to reach out via Email: `reemosama111111@gmail.com`[cite: 6] or connect with me on [LinkedIn](https://linkedin.com/in/reemosama-dev)[cite: 6].
+Feel free to reach out via Email: `reemosama111111@gmail.com`[cite: 6] or connect with me on [LinkedIn](https://linkedin.com/in/reemosama-dev).
