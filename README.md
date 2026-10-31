@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-reemosama111111@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:reemosama111111@gmail.com)](mailto:reemosama111111@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-Reem--Osama11-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Reem-Osama11)](https://github.com/Reem-Osama11)
 
-Welcome to my profile! I'm a **Junior Frontend Developer** with a B.Sc. in Computer & Information Technology (EELU)[cite: 6]. I specialize in building high-performance, responsive web applications with **React.js, Next.js, and TypeScript**[cite: 6]. I've completed a Front-End internship at **Saiket Systems**[cite: 6] and built multiple full-featured web applications[cite: 6, 7].
+Welcome to my profile! I'm a **Junior Frontend Developer** with a B.Sc. in Computer & Information Technology (EELU). I specialize in building high-performance, responsive web applications with **React.js, Next.js, and TypeScript**. I've completed a Front-End internship at **Saiket Systems** and built multiple full-featured web applications.
 
 ---
 
@@ -31,4 +31,4 @@ Welcome to my profile! I'm a **Junior Frontend Developer** with a B.Sc. in Compu
 ---
 
 📫 **Let's Connect!**  
-Feel free to reach out via Email: `reemosama111111@gmail.com`[cite: 6] or connect with me on [LinkedIn](https://linkedin.com/in/reemosama-dev).
+Feel free to reach out via Email: `reemosama111111@gmail.com` or connect with me on [LinkedIn](https://linkedin.com/in/reemosama-dev).
