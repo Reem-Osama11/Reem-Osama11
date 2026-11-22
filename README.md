@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2A5B,100:1E4FA3&height=140&section=header&text=Reem%20Osama&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Junior%20Frontend%20Developer&descSize=18&descAlignY=65" alt="Reem Osama - Junior Frontend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0284C7&height=135&section=header&text=Reem%20Osama&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=Frontend%20Developer%20%7C%20TypeScript%20%26%20Tailwind%20CSS&descSize=16&descAlignY=68" alt="Reem Osama - Frontend Developer" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reemosama-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reemosama111111@gmail.com)
