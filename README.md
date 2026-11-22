@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1E3A8A&height=230&section=header&text=Reem%20Osama&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Junior%20Frontend%20Developer&descSize=20&descAlignY=54&animation=fadeIn" alt="Reem Osama - Junior Frontend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1E3A8A&height=230&section=header&text=Reem%20Osama&fontColor=ffffff&fontSize=46&fontAlignY=34&desc=Junior%20Frontend%20Developer&descSize=20&descAlignY=54" alt="Reem Osama - Junior Frontend Developer" />
 <p>
   <a href="https://www.linkedin.com/in/reemosama-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://mail.google.com/mail/?view=cm&to=reemosama111111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
