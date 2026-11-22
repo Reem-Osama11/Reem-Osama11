@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0284C7&height=135&section=header&text=Reem%20Osama&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=Frontend%20Developer%20%7C%20TypeScript%20%26%20Tailwind%20CSS&descSize=16&descAlignY=68" alt="Reem Osama - Frontend Developer" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Reem+Osama;Junior+Frontend+Developer+%7C+React+%26+Next.js" alt="Typing SVG" />
+</a>
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reemosama-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reemosama111111@gmail.com)
