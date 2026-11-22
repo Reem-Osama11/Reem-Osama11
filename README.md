@@ -1,5 +1,4 @@
-غير الصوره دي <div align="center">
-
+<div align="center">
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2A5B,100:1E4FA3&height=140&section=header&text=Reem%20Osama&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Junior%20Frontend%20Developer&descSize=18&descAlignY=65" alt="Reem Osama - Junior Frontend Developer" />
@@ -108,5 +107,5 @@ I completed a Front-End Development internship at **SaiKet Systems**, where I bu
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) و دا الكود عاوزه اغير الصورد دي بس تشتغل 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
