@@ -1,3 +1,4 @@
+<img width="1376" height="768" alt="banner" src="https://github.com/user-attachments/assets/34ed2868-1b46-4df6-8f26-6c62a5dc75bd" />
 <div align="center">
 
 <a href="https://git.io/typing-svg">
