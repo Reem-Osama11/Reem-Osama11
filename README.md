@@ -1,10 +1,13 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2A5B,100:1E4FA3&height=200&section=header&text=Reem%20Osama&fontColor=ffffff&fontSize=44&fontAlignY=42&desc=Junior%20Frontend%20Developer&descSize=20&descAlignY=65" alt="Reem Osama - Junior Frontend Developer" />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reemosama-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reemosama111111@gmail.com)
- 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=200&section=header&text=Reem%20Osama&fontColor=ffffff&fontSize=44&fontAlignY=42&desc=Junior%20Frontend%20Developer&descSize=20&descAlignY=65" alt="Reem Osama - Junior Frontend Developer" />
+
+<p>
+  <a href="https://www.linkedin.com/in/reemosama-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:reemosama111111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 </div>
----
  
 ## 👩‍💻 About Me
  
